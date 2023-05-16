@@ -1,0 +1,41 @@
+---
+home: true
+heroText: Rei Academic Network
+tagline: ASNumber
+footer: Copyright © 2023 ReiAC
+---
+
+# About
+Rei Academic Network, currently running [ASNumber](https://bgp.he.net/ASNumber), operated by [ReiAC](https://rei.ac), is a global experimental network primarily dedicated to education and research in the field. 
+
+The network aims to provide a stable, secure, and efficient networking environment, facilitating network technology experiments. 
+
+[PeeringDB](https://www.peeringdb.com/net/ASNumber) [Looking Glass](https://lg.reiac.net) [BGP.HE.NET](https://bgp.he.net/ASNumber)
+
+# Peering Policy
+
+We have an open peering policy. You can peer with us through Internet eXchange Points that we have in common.
+
+- For networks that peer through exchanges, we expect you to peer with us at all common exchanges to ensure proper route propagation.
+- We hope RTT should be less than 100ms on both ends of the connection.
+
+For your convenience, here are more info about peering.
+
+- ASN: 
+- AS-SET: 
+- Suggested IPv6 Prefix limit: 
+
+# Contact
+
+- Abuse: [abuse@reiac.net](mailto:abuse@reiac.net)
+- NOC: [noc@reiac.net](mailto:noc@reiac.net)
+
+# Internet eXchange Points
+
+XXX
+
+# Locations
+
+- Frankfurt, DE
+- Tokyo, JP
+- Hangzhou, Zhejiang, CN

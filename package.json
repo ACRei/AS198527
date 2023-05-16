@@ -1,0 +1,16 @@
+{
+  "name": "rei-ac-net",
+  "version": "1.0.0",
+  "description": "home page of reiac.net",
+  "main": "index.js",
+  "repository": "https://github.com/ACRei/ReiACNet",
+  "author": "ReiAC",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.62"
+  }
+}
