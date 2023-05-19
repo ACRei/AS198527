@@ -14,14 +14,11 @@ The network aims to provide a stable, secure, and efficient networking environme
 
 # Peering Policy
 
-We have an open peering policy. You can peer with us through Internet eXchange Points that we have in common.
-
-- For networks that peer through exchanges, we expect you to peer with us at all common exchanges to ensure proper route propagation.
-- We hope RTT should be less than 100ms on both ends of the connection.
+We have an open peering policy. You can peer with us through Internet eXchange Points that we have in common. For networks that peer through exchanges, we expect you to peer with us at all common exchanges to ensure proper route propagation.
 
 For your convenience, here are more info about peering.
 
-- ASN: 
+- ASN: AS198527
 - AS-SET: 
 - Suggested IPv6 Prefix limit: 
 
