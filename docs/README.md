@@ -1,16 +1,16 @@
 ---
 home: true
 heroText: Rei Academic Network
-tagline: ASNumber
+tagline: AS198527
 footer: Copyright © 2023 ReiAC
 ---
 
 # About
-Rei Academic Network, currently running [ASNumber](https://bgp.he.net/ASNumber), operated by [ReiAC](https://rei.ac), is a global experimental network primarily dedicated to education and research in the field. 
+Rei Academic Network, currently running [AS198527](https://bgp.he.net/AS198527), operated by [ReiAC](https://rei.ac), is a global experimental network primarily dedicated to education and research in the field. 
 
 The network aims to provide a stable, secure, and efficient networking environment, facilitating network technology experiments. 
 
-[PeeringDB](https://www.peeringdb.com/net/ASNumber) [Looking Glass](https://lg.reiac.net) [BGP.HE.NET](https://bgp.he.net/ASNumber)
+[PeeringDB](https://www.peeringdb.com/net/AS198527) [Looking Glass](https://lg.reiac.net) [BGP.HE.NET](https://bgp.he.net/AS198527)
 
 # Peering Policy
 
