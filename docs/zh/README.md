@@ -10,7 +10,7 @@ Rei Academic Network([AS198527](https://bgp.he.net/AS198527))，目前由 [ReiAC
 
 该网络旨在提供一个稳定、安全、高效的网络环境，为网络技术实验提供一个良好的网络环境。
 
-[PeeringDB](https://www.peeringdb.com/net/AS198527) [Looking Glass](https://lg.reiac.net) [BGP.HE.NET](https://bgp.he.net/AS198527)
+[PeeringDB](https://www.peeringdb.com/net/198527) [Looking Glass](https://lg.reiac.net) [BGP.HE.NET](https://bgp.he.net/AS198527)
 
 # 互联政策
 
@@ -36,3 +36,6 @@ XXX
 - Frankfurt, DE
 - Tokyo, JP
 - Hangzhou, Zhejiang, CN
+
+# 图表
+![IPv6](https://bgp.he.net/graphs/as198527-ipv6.svg)
